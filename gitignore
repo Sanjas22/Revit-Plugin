@@ -1,0 +1,50 @@
+# ==== OS junk ====
+.DS_Store
+Thumbs.db
+
+# ==== Visual Studio / .NET ====
+.vs/
+[Bb]in/
+[Oo]bj/
+[Rr]elease/
+[Dd]ebug/
+[Pp]ublish/
+[Tt]est[Rr]esult*/
+TestResult*/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.userprefs
+*.rsuser
+
+# Logs / caches
+*.log
+*.tlog
+*.cache
+*.pdb
+
+# NuGet
+*.nupkg
+*.snupkg
+# Old-style packages folder (if present)
+packages/*
+!packages/build/
+!packages/repositories.config
+
+# Rider / JetBrains
+.idea/
+*.iml
+
+# Code coverage
+.coverage
+.coveragexml
+*.coverage
+*.coveragexml
+
+# Local settings
+.vscode/
+
+# MSBuild artifacts
+artifacts/

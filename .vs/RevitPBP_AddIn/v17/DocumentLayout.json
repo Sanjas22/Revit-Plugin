@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AShcherbatenko\\Projekten\\Revit_PBP_Aktuell\\RevitPBP_AddIn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D431E1A-AA7C-4630-8283-56A9714BFE68}|RevitPBP_AddIn\\RevitPBP_AddIn.csproj|c:\\users\\ashcherbatenko\\projekten\\revit_pbp_aktuell\\revitpbp_addin\\revitpbp_addin\\pbpexternaleventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D431E1A-AA7C-4630-8283-56A9714BFE68}|RevitPBP_AddIn\\RevitPBP_AddIn.csproj|solutionrelative:revitpbp_addin\\pbpexternaleventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D431E1A-AA7C-4630-8283-56A9714BFE68}|RevitPBP_AddIn\\RevitPBP_AddIn.csproj|C:\\Users\\AShcherbatenko\\Projekten\\Revit_PBP_Aktuell\\RevitPBP_AddIn\\revitpbp_addin\\spdigital_tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D431E1A-AA7C-4630-8283-56A9714BFE68}|RevitPBP_AddIn\\RevitPBP_AddIn.csproj|solutionrelative:revitpbp_addin\\spdigital_tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D431E1A-AA7C-4630-8283-56A9714BFE68}|RevitPBP_AddIn\\RevitPBP_AddIn.csproj|C:\\Users\\AShcherbatenko\\Projekten\\Revit_PBP_Aktuell\\RevitPBP_AddIn\\revitpbp_addin\\createpbpcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D431E1A-AA7C-4630-8283-56A9714BFE68}|RevitPBP_AddIn\\RevitPBP_AddIn.csproj|solutionrelative:revitpbp_addin\\createpbpcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D431E1A-AA7C-4630-8283-56A9714BFE68}|RevitPBP_AddIn\\RevitPBP_AddIn.csproj|C:\\Users\\AShcherbatenko\\Projekten\\Revit_PBP_Aktuell\\RevitPBP_AddIn\\revitpbp_addin\\spdigital_tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D431E1A-AA7C-4630-8283-56A9714BFE68}|RevitPBP_AddIn\\RevitPBP_AddIn.csproj|solutionrelative:revitpbp_addin\\spdigital_tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D431E1A-AA7C-4630-8283-56A9714BFE68}|RevitPBP_AddIn\\RevitPBP_AddIn.csproj|C:\\Users\\AShcherbatenko\\Projekten\\Revit_PBP_Aktuell\\RevitPBP_AddIn\\revitpbp_addin\\pbpinitialstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D431E1A-AA7C-4630-8283-56A9714BFE68}|RevitPBP_AddIn\\RevitPBP_AddIn.csproj|solutionrelative:revitpbp_addin\\pbpinitialstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D431E1A-AA7C-4630-8283-56A9714BFE68}|RevitPBP_AddIn\\RevitPBP_AddIn.csproj|C:\\Users\\AShcherbatenko\\Projekten\\Revit_PBP_Aktuell\\RevitPBP_AddIn\\revitpbp_addin\\inputform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D431E1A-AA7C-4630-8283-56A9714BFE68}|RevitPBP_AddIn\\RevitPBP_AddIn.csproj|solutionrelative:revitpbp_addin\\inputform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D431E1A-AA7C-4630-8283-56A9714BFE68}|RevitPBP_AddIn\\RevitPBP_AddIn.csproj|C:\\Users\\AShcherbatenko\\Projekten\\Revit_PBP_Aktuell\\RevitPBP_AddIn\\revitpbp_addin\\inputform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D431E1A-AA7C-4630-8283-56A9714BFE68}|RevitPBP_AddIn\\RevitPBP_AddIn.csproj|solutionrelative:revitpbp_addin\\inputform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D431E1A-AA7C-4630-8283-56A9714BFE68}|RevitPBP_AddIn\\RevitPBP_AddIn.csproj|C:\\Users\\AShcherbatenko\\Projekten\\Revit_PBP_Aktuell\\RevitPBP_AddIn\\revitpbp_addin\\inputform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D431E1A-AA7C-4630-8283-56A9714BFE68}|RevitPBP_AddIn\\RevitPBP_AddIn.csproj|solutionrelative:revitpbp_addin\\inputform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InputForm.cs",
+              "DocumentMoniker": "C:\\Users\\AShcherbatenko\\Projekten\\Revit_PBP_Aktuell\\RevitPBP_AddIn\\RevitPBP_AddIn\\InputForm.cs",
+              "RelativeDocumentMoniker": "RevitPBP_AddIn\\InputForm.cs",
+              "ToolTip": "C:\\Users\\AShcherbatenko\\Projekten\\Revit_PBP_Aktuell\\RevitPBP_AddIn\\RevitPBP_AddIn\\InputForm.cs",
+              "RelativeToolTip": "RevitPBP_AddIn\\InputForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T12:13:47.921Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InputForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\AShcherbatenko\\Projekten\\Revit_PBP_Aktuell\\RevitPBP_AddIn\\RevitPBP_AddIn\\InputForm.Designer.cs",
+              "RelativeDocumentMoniker": "RevitPBP_AddIn\\InputForm.Designer.cs",
+              "ToolTip": "C:\\Users\\AShcherbatenko\\Projekten\\Revit_PBP_Aktuell\\RevitPBP_AddIn\\RevitPBP_AddIn\\InputForm.Designer.cs",
+              "RelativeToolTip": "RevitPBP_AddIn\\InputForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T13:44:25.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InputForm.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\AShcherbatenko\\Projekten\\Revit_PBP_Aktuell\\RevitPBP_AddIn\\RevitPBP_AddIn\\InputForm.cs",
+              "RelativeDocumentMoniker": "RevitPBP_AddIn\\InputForm.cs",
+              "ToolTip": "C:\\Users\\AShcherbatenko\\Projekten\\Revit_PBP_Aktuell\\RevitPBP_AddIn\\RevitPBP_AddIn\\InputForm.cs [Entwurf]",
+              "RelativeToolTip": "RevitPBP_AddIn\\InputForm.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T13:27:40.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PBPInitialState.cs",
+              "DocumentMoniker": "C:\\Users\\AShcherbatenko\\Projekten\\Revit_PBP_Aktuell\\RevitPBP_AddIn\\RevitPBP_AddIn\\PBPInitialState.cs",
+              "RelativeDocumentMoniker": "RevitPBP_AddIn\\PBPInitialState.cs",
+              "ToolTip": "C:\\Users\\AShcherbatenko\\Projekten\\Revit_PBP_Aktuell\\RevitPBP_AddIn\\RevitPBP_AddIn\\PBPInitialState.cs",
+              "RelativeToolTip": "RevitPBP_AddIn\\PBPInitialState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T13:53:33.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SPdigital_tools.cs",
+              "DocumentMoniker": "C:\\Users\\AShcherbatenko\\Projekten\\Revit_PBP_Aktuell\\RevitPBP_AddIn\\RevitPBP_AddIn\\SPdigital_tools.cs",
+              "RelativeDocumentMoniker": "RevitPBP_AddIn\\SPdigital_tools.cs",
+              "ToolTip": "C:\\Users\\AShcherbatenko\\Projekten\\Revit_PBP_Aktuell\\RevitPBP_AddIn\\RevitPBP_AddIn\\SPdigital_tools.cs",
+              "RelativeToolTip": "RevitPBP_AddIn\\SPdigital_tools.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAlwBoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T13:57:31.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SPdigital_tools.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\AShcherbatenko\\Projekten\\Revit_PBP_Aktuell\\RevitPBP_AddIn\\RevitPBP_AddIn\\SPdigital_tools.cs",
+              "RelativeDocumentMoniker": "RevitPBP_AddIn\\SPdigital_tools.cs",
+              "ToolTip": "C:\\Users\\AShcherbatenko\\Projekten\\Revit_PBP_Aktuell\\RevitPBP_AddIn\\RevitPBP_AddIn\\SPdigital_tools.cs [Entwurf]",
+              "RelativeToolTip": "RevitPBP_AddIn\\SPdigital_tools.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T13:53:04.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PBPExternalEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\AShcherbatenko\\Projekten\\Revit_PBP_Aktuell\\RevitPBP_AddIn\\RevitPBP_AddIn\\PBPExternalEventHandler.cs",
+              "RelativeDocumentMoniker": "RevitPBP_AddIn\\PBPExternalEventHandler.cs",
+              "ToolTip": "C:\\Users\\AShcherbatenko\\Projekten\\Revit_PBP_Aktuell\\RevitPBP_AddIn\\RevitPBP_AddIn\\PBPExternalEventHandler.cs",
+              "RelativeToolTip": "RevitPBP_AddIn\\PBPExternalEventHandler.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAIAjwHUAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T11:55:12.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreatePBPCommand.cs",
+              "DocumentMoniker": "C:\\Users\\AShcherbatenko\\Projekten\\Revit_PBP_Aktuell\\RevitPBP_AddIn\\RevitPBP_AddIn\\CreatePBPCommand.cs",
+              "RelativeDocumentMoniker": "RevitPBP_AddIn\\CreatePBPCommand.cs",
+              "ToolTip": "C:\\Users\\AShcherbatenko\\Projekten\\Revit_PBP_Aktuell\\RevitPBP_AddIn\\RevitPBP_AddIn\\CreatePBPCommand.cs",
+              "RelativeToolTip": "RevitPBP_AddIn\\CreatePBPCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T11:35:34.978Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
