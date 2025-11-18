@@ -115,7 +115,7 @@ namespace RevitPBP_AddIn
 
             // 3. Familie laden (Load family)
             string familyPath = CommandData.UseStandardFamily || string.IsNullOrEmpty(CommandData.FamilyPath)
-                ? @"X:\SD\F\220512_GIS_ENTW\03_DAT\GLM\00_Skripte\05_Revit\01_PBP-2-IFC\DB_Koordinationskoerper_ModelTextalsParam.rfa"
+                ? @"C:blabla\blabla"
                 : CommandData.FamilyPath;
             Family family = null;
 
